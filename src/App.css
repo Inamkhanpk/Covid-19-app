@@ -10,7 +10,7 @@ body{
   
   /* background: radial-gradient(circle, black, white); */
   /* background: linear-gradient(to left, #ccffff 0%, #6600ff 100%); */
-  background-image: linear-gradient(315deg, rgba(81, 75, 121, 0.9), rgba(38, 218, 149, 0.8));
+  background-image: linear-gradient(315deg, rgba(255, 255, 255, 0.9), rgba(253, 253, 253, 0.8));
 }
 
 .navbar{
